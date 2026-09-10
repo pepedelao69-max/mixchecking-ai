@@ -1,0 +1,1 @@
+MIXCHECK AI Privacy - Placeholder. No vendemos archivos. Audio local en MVP. Servidor elimina en 24h. Cifrado HTTPS.

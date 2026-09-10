@@ -1,0 +1,4 @@
+#!/bin/sh
+# Gradle wrapper - será generado automáticamente por GitHub Action si no existe
+# Para asegurar build, usamos gradle via sdk
+exec gradle "$@"

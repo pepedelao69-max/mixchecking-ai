@@ -1,0 +1,17 @@
+
+fastapi==0.110.0
+uvicorn==0.27.1
+pydantic==2.6.1
+python-multipart==0.0.9
+pyloudnorm==0.1.1
+librosa==0.10.1
+numpy==1.26.4
+scipy==1.12.0
+essentia==2.1b6.dev1110
+torch==2.2.0
+torchaudio==2.2.0
+redis==5.0.1
+rq==1.15.1
+boto3==1.34.20
+google-api-python-client==2.115.0
+python-jose==3.3.0

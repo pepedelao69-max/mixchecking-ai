@@ -1,0 +1,16 @@
+{
+  "name": "MIXCHECK AI",
+  "short_name": "MIXCHECK",
+  "description": "Tu mezcla. Analizada de verdad.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0A0A0F",
+  "theme_color": "#00E5FF",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/138/138817.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
